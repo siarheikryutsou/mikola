@@ -22,6 +22,19 @@
             margin: 0 100px;
             text-align: center;
         }
+
+        img {
+            animation: rotation 2s infinite linear;
+        }
+
+        @keyframes rotation {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(359deg);
+            }
+        }
     </style>
 </head>
 <body>
