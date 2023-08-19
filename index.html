@@ -24,7 +24,7 @@
         }
 
         img {
-            animation: rotation 2s infinite linear;
+            animation: pulse 2s infinite linear;
         }
 
         @keyframes rotation {
@@ -33,6 +33,20 @@
             }
             to {
                 transform: rotate(359deg);
+            }
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(3);
+            }
+
+            100% {
+                transform: scale(1);
             }
         }
     </style>
