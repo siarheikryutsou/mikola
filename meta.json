@@ -1,0 +1,54 @@
+{
+  "/": {
+    "title": "",
+    "description": "Test description"
+  },
+  "/popular-exchanges": {
+    "title": "popular_exchanges_title",
+    "description": ""
+  },
+  "/exchange-": {
+    "title": "",
+    "description": ""
+  },
+  "/how-it-works": {
+    "title": "how_it_works_title",
+    "description": ""
+  },
+  "/blog": {
+    "title": "",
+    "description": ""
+  },
+  "/affiliate": {
+    "title": "",
+    "description": ""
+  },
+  "/wallet": {
+    "title": "",
+    "description": ""
+  },
+  "/aml-policy": {
+    "title": "",
+    "description": ""
+  },
+  "/about-us": {
+    "title": "",
+    "description": ""
+  },
+  "/api-documentation": {
+    "title": "",
+    "description": ""
+  },
+  "/terms-and-conditions": {
+    "title": "",
+    "description": ""
+  },
+  "/privacy-policy": {
+    "title": "",
+    "description": ""
+  },
+  "/for-competent-authorities": {
+    "title": "",
+    "description": ""
+  }
+}
